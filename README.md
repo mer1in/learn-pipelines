@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/gorelik/learn-pipelines/_apis/build/status/mer1in.learn-pipelines%20(1)?branchName=main)](https://dev.azure.com/gorelik/learn-pipelines/_build/latest?definitionId=2&branchName=main)
+
 ---
 page_type: sample
 languages:
