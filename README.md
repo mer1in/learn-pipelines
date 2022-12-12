@@ -1,32 +1,29 @@
-[![Build Status](https://dev.azure.com/gorelik/learn-pipelines/_apis/build/status/mer1in.learn-pipelines?branchName=main)](https://dev.azure.com/gorelik/learn-pipelines/_build/latest?definitionId=1&branchName=main)
+---
+page_type: sample
+languages:
+- javascript
+- nodejs
+name: "JavaScript end-to-end Express.js server"
+description: "This project is used instead of the previous express-generator."
+products:
+- azure
+- vs-code
+---
 
-# Contributing
+# JavaScript end-to-end client file upload to Azure Storage Blobs
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.microsoft.com.
+This is a basic Express.js server used for JS Dev Experience documentation, in place of the previously used express generator. 
 
-When you submit a pull request, a CLA-bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., label, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+1. Clone repo.
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+1. Install dependencies: 
 
-# Legal Notices
+    ```bash
+    npm install
+    ```
 
-Microsoft and any contributors grant you a license to the Microsoft documentation and other content
-in this repository under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode),
-see the [LICENSE](LICENSE) file, and grant you a license to any code in the repository under the [MIT License](https://opensource.org/licenses/MIT), see the
-[LICENSE-CODE](LICENSE-CODE) file.
+1. Start project: 
 
-Microsoft, Windows, Microsoft Azure and/or other Microsoft products and services referenced in the documentation
-may be either trademarks or registered trademarks of Microsoft in the United States and/or other countries.
-The licenses for this project do not grant you rights to use any Microsoft names, logos, or trademarks.
-Microsoft's general trademark guidelines can be found at http://go.microsoft.com/fwlink/?LinkID=254653.
-
-Privacy information can be found at https://privacy.microsoft.com/en-us/
-
-Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
-or trademarks, whether by implication, estoppel or otherwise.
+    ```bash
+    npm start
+    ```
