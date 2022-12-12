@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/gorelik/learn-pipelines/_apis/build/status/mer1in.learn-pipelines?branchName=main)](https://dev.azure.com/gorelik/learn-pipelines/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
